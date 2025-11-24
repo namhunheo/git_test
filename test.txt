@@ -6,5 +6,4 @@ helo
 
 hi
 hello
-아녀어엉dqqqqq
-1111111
+로컬저장소에서 수정
